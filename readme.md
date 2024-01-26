@@ -1,3 +1,6 @@
+まじさんくす
+https://konnitiwan.onrender.com/
+
 ASGIで動く  
 deployボタンは追加していく予定です  
 blog内に静的サイトを入れると認証されていない時にそのサイトが表示されます。  
