@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: konnitiwan
+    name: happyjhon
     env: python
     region: Oregon
     plan: free
